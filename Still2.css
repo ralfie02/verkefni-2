@@ -1,0 +1,28 @@
+.a{
+	margin-bottom: 50px;
+}
+.b{
+	margin-bottom: 30px;
+}
+.block{
+	display: block;
+	margin: 1em;
+	padding: 1em;
+	border: 3px dashed green;
+}
+.in-line{
+	display: inline;
+	margin: 1em;
+	padding: 1em;
+	border: 3px dashed blue;
+	color: red;
+}
+.in-line-block{
+	display: inline-block;
+	margin: 1em;
+	padding: 1em;
+	border: 3px dashed red;
+}
+body{
+	width: auto;
+}
